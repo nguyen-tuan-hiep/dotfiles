@@ -1,0 +1,4 @@
+.DS_Store
+*.log
+/ubuntu/tmux/.config/tmux/plugins/
+
