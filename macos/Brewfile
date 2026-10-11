@@ -1,0 +1,67 @@
+# Clone of cat(1) with syntax highlighting and Git integration
+brew "bat"
+# More intuitive version of du in rust
+brew "dust"
+# Modern, maintained replacement for ls
+brew "eza"
+# Like neofetch, but much faster because written mostly in C
+# brew "fastfetch"
+# Simple, fast and user-friendly alternative to find
+brew "fd"
+# Play, record, convert, and stream many audio and video codecs
+# brew "ffmpeg-full", link: true
+# Command-line fuzzy finder written in Go
+brew "fzf"
+# GitHub command-line tool
+brew "gh"
+# Distributed revision control system
+brew "git"
+# Improved top (interactive process viewer)
+brew "htop"
+# Tools and libraries to manipulate images in many formats
+# brew "imagemagick-full", link: true
+# Lightweight and flexible command-line JSON processor
+# brew "jq"
+# Ambitious Vim-fork focused on extensibility and agility
+brew "neovim"
+# Open-source, cross-platform JavaScript runtime environment
+brew "node"
+# PDF rendering library (based on the xpdf-3.0 code base)
+# brew "poppler"
+# SVG rendering tool and library
+# brew "resvg"
+# Search tool like grep and The Silver Searcher
+brew "ripgrep"
+# 7-Zip is a file archiver with a high compression ratio
+# brew "sevenzip"
+# Cross-shell prompt for astronauts
+brew "starship"
+# Organize software neatly under a single directory tree (e.g. /usr/local)
+brew "stow"
+# Terminal image and video viewer
+brew "timg"
+# Internet file retriever
+brew "wget"
+# Blazing fast terminal file manager written in Rust, based on async I/O
+brew "yazi"
+# Feature-rich command-line audio/video downloader
+# brew "yt-dlp"
+# Shell extension to navigate your filesystem faster
+brew "zoxide"
+# Fish-like fast/unobtrusive autosuggestions for zsh
+brew "zsh-autosuggestions"
+# Fish shell like syntax highlighting for zsh
+brew "zsh-syntax-highlighting"
+cask "font-jetbrains-mono-nerd-font"
+# Homebrew's official GUI
+cask "homebrew-app"
+# Free and open-source media player
+# cask "iina"
+# Terminal emulator as alternative to Apple's Terminal app
+cask "iterm2"
+# Tool to control external monitor brightness & volume
+# cask "monitorcontrol"
+# Reverse proxy, secure introspectable tunnels to localhost
+cask "ngrok"
+# Menu bar toolkit with keep-awake, system monitor and volume mixer
+# cask "vorssaint"
