@@ -168,4 +168,4 @@ export FZF_DEFAULT_OPTS=" \
 source <(fzf --zsh)
 bindkey "ç" fzf-cd-widget
 
-cat /Users/hiepnt/.config/logo.txt
+cat "$HOME/.config/logo.txt"
